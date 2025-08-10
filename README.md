@@ -30,5 +30,3 @@ This project is designed to **analyze TikTok videos** to extract **audio feature
 
 5. **Download Processed Audio**  
    - Users can download the extracted vocals and background music.
-
----
