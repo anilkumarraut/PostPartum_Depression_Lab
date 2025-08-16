@@ -26,5 +26,5 @@ This project is designed to **analyze TikTok videos** to extract **audio feature
    - `Demucs` is applied to isolate the **speaker’s voice** from **background music**.
 
 4. **Generate JSON Output**  
-   - A structured `JSON` file is created with 
+   - A structured `JSON` file is created 
    
