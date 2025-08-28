@@ -20,4 +20,4 @@ This project is designed to **analyze TikTok videos** to extract **audio feature
    - The user selects and uploads a video file (`.mp4` format).
    
 2. **Extract Audio**  
-   - `FFmpeg` is used 
+   - `FFmpeg` is 
