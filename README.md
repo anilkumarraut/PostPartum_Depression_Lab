@@ -17,7 +17,7 @@ This project is designed to **analyze TikTok videos** to extract **audio feature
 
 ## 🏗️ Work
 1. **Upload TikTok Video**  
-   - The user selects and uploads a video file (`.mp4` format).
+   - The user selects and uploads a video file (`.mp4
    
 
 
