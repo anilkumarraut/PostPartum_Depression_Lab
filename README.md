@@ -11,8 +11,7 @@ This project is designed to **analyze TikTok videos** to extract **audio feature
 ✔ **Separate background music and vocals** using `Demucs`.  
 ✔ **Generate structured JSON output** with relevant file paths.  
 ✔ **Handle cases where one or both audio components are missing**.  
-✔ **Allow users to download extracted audio files**.
-
+✔ **Allow users to download extracted audio 
 
 
 
