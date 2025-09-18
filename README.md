@@ -6,4 +6,4 @@ This project is designed to **analyze TikTok videos** to extract **audio feature
 ---
 
 ## 🔹 Features Implemented
-✔ **Upload a TikTok video** from the user's local computer.  
+✔ **Upload a TikTok video** from the user's local comp  
