@@ -1,4 +1,4 @@
 # 🎭 TikTok Video Analysis for Postpartum Depression Detection
 
 ## 📌 Overview
-This project is designed to **analyze TikTok videos** to extract **audio features** and separate the **background music and human voice** from the video. The primary goal 
+This project is designed to **analyze TikTok videos** to extract **audio features** and separate the **background music and human voice** from the video. The primary 
